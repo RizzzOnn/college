@@ -6,3 +6,12 @@ mobile first & resposiveness
 visual hierarchy
 white space
 accessibility
+
+zig zag layout
+the zig zag layout is a popular web/graphic design pattern that alternates image and text.
+
+key characters
+1.visual interest
+2. guided scanning
+3. information chunking
+4. improved conversion

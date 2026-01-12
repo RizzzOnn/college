@@ -1,0 +1,8 @@
+a webpage layout is the structural framework that defines how visual 
+elements like text, images, and navigation menus are arranged
+
+key design priniples
+mobile first & resposiveness
+visual hierarchy
+white space
+accessibility

@@ -15,3 +15,13 @@ key characters
 2. guided scanning
 3. information chunking
 4. improved conversion
+
+Implementation considerations
+    resposibility and mobile view
+    content relevance
+    simplicity
+
+use case
+    product features
+    landing pages
+    email marketing

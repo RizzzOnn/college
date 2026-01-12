@@ -25,3 +25,10 @@ use case
     product features
     landing pages
     email marketing
+
+the f layoutthe 
+f layout or f shaped is a prominant user experience(UX) design  principle based on eye - tracking research.
+    core componnet
+        the top bar
+        the lower bar
+        the stem

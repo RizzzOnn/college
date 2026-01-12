@@ -63,3 +63,4 @@ ll.display()
 
 ll.insert_before(30, 25)
 ll.display()
+# Inserting before head

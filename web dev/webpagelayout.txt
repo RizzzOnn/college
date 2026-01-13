@@ -1,0 +1,34 @@
+a webpage layout is the structural framework that defines how visual 
+elements like text, images, and navigation menus are arranged
+
+key design priniples
+mobile first & resposiveness
+visual hierarchy
+white space
+accessibility
+
+zig zag layout
+the zig zag layout is a popular web/graphic design pattern that alternates image and text.
+
+key characters
+1.visual interest
+2. guided scanning
+3. information chunking
+4. improved conversion
+
+Implementation considerations
+    resposibility and mobile view
+    content relevance
+    simplicity
+
+use case
+    product features
+    landing pages
+    email marketing
+
+the f layoutthe 
+f layout or f shaped is a prominant user experience(UX) design  principle based on eye - tracking research.
+    core componnet
+        the top bar
+        the lower bar
+        the stem

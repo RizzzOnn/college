@@ -27,7 +27,7 @@ body {
 }
 
 .split-left{
-    background-color: #3b3a41;
+    background-color: #271c68;
     color: #ffffff;
     border: 2px solid rgb(95, 156, 180);
 }
@@ -36,19 +36,19 @@ p{
     line-height: 30px;
 }
 .split-right{
-    background-color: #f6f7fa;
+    background-color: #b20f3b;
     color: #333333;
     border: 2px solid grey;
 }
 .split-left:hover{
-    background-color: #313532;
+    background-color: #2c8342;
     transform: scale(1.05);
     border: 3px solid rgb(87, 128, 87);
 
 }
 
 .split-right:hover{
-    background-color: #cbeaeb;
+    background-color: #7f51af;
     transform: scale(1.05);
     border: 3px solid rgb(146, 205, 223)
 }

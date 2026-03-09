@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    Enter Your Name: <input type="text" id="fname" onblur="myfunction()">
+    <p>When you leave the input field, a function is triggered which transforms the input text to uppercase</p>
+    <script>
+        function myfunction(){
+            var x = document.getElementById("fname");
+            x.value = x.value.toUpperCase();
+        }
+    </script>
+</body>
+</html>
